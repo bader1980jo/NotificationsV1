@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework>=3.14
+celery>=5.3
+redis>=4.5
+firebase-admin>=6.3
+django-celery-beat>=2.5
+django-environ>=0.10
+python-dotenv>=1.0
+drf-spectacular>=0.26
